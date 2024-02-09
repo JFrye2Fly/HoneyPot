@@ -1,13 +1,6 @@
 # HoneyPot
 A vulnerable virtual machine hosted in Azure Cloud to attract hackers from around the globe. 
 
-<h1>HoneyPot hosted through Azure Cloud</h1>
-
-
-<h2>Description</h2>
-A vulnerable virtual machine hosted in Azure Cloud to attract hackers from around the globe. 
-<br />
-
 
 <h2>Languages and Utilities Used</h2>
 
