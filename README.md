@@ -15,6 +15,9 @@ Ports used by malicious hackers attacking the HoneyPot <br/>
 Main Dashboard with results from HoneyPot attackers <br/>
 <img src="https://i.imgur.com/BtT7SR5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+Common Vulnerabilities as provided by CVE <br/>
+<img src="https://i.imgur.com/0S1fS3P.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <h2>Languages and Utilities Used</h2>
 
 - <b>TPot</b>
