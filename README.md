@@ -18,11 +18,11 @@ began their attempts to hack the virtual machine. This a live attack map. As you
 <br />
 <br />
 
-<h3>Main Dashboard with results from HoneyPot attackers <h3/>
+<h3>Main Dashboard with results from HoneyPot attackers </h3>
  <p align="left">This section provides a high-level overview of the attacks. It shows common username and passwords used to attempt to login as well as the type of attacks and countries performing them</p>
-<img src="https://i.imgur.com/0S1fS3P.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LcfPBDe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h3>Common Vulnerabilities as provided by CVE <h3/>
+<h3>Common Vulnerabilities as provided by CVE </h3>
  <p align="left">The Mitre Corporation provides a list of all common vulnerabilities (CVE). Based on the threat that an attacker is attempting to execute, a list of vulnerabilities and remdiations is provided through this HoneyPot</p>
 <img src="https://i.imgur.com/LcfPBDe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
