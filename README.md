@@ -20,15 +20,21 @@ began their attempts to hack the virtual machine. This a live attack map. As you
 
 <h3>Main Dashboard with results from HoneyPot attackers </h3>
  <p align="left">This section provides a high-level overview of the attacks. It shows common username and passwords used to attempt to login as well as the type of attacks and countries performing them</p>
-<img src="https://i.imgur.com/LcfPBDe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mjm7dxL.jpg"/>
+<br />
+<br />
 
 <h3>Common Vulnerabilities as provided by CVE </h3>
  <p align="left">The Mitre Corporation provides a list of all common vulnerabilities (CVE). Based on the threat that an attacker is attempting to execute, a list of vulnerabilities and remdiations is provided through this HoneyPot</p>
 <img src="https://i.imgur.com/LcfPBDe.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h3>Languages and Utilities Used</h3>
 
-- <b>TPot</b>
+- <b>Understanding of virtual machine deployment and network configuration in Azure Cloud</b>
+- <b>Experience in configuring access controls in Azure to secure network traffic</b>
+- <b>TPot (HoneyPot creator)</b>
 - <b>Putty</b>
 
 
