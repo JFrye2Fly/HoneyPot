@@ -11,8 +11,9 @@ Ports used by malicious hackers attacking the HoneyPot <br/>
 <img src="https://i.imgur.com/PcB5Zfm.jpg"/>
 <br />
 <br />
-Issues Detected from Scan <br/>
-<img src="https://i.imgur.com/vn1yX5A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Main Dashboard with results from HoneyPot attackers <br/>
+<img src="https://i.imgur.com/BtT7SR5.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Languages and Utilities Used</h2>
 
