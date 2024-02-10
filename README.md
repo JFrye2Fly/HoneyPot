@@ -6,8 +6,9 @@ Attack Map -- Honey Pot <br/>
 <img src="https://i.imgur.com/enpYnkf.jpg"/>
 <br />
 <br />
-Vulnerability Scan is crawling and searching the network <br/>
-<img src="https://i.imgur.com/70Cm0VK.png" height="80%" width="80%" alt="Vulnerability Scan searching"/>
+ 
+Ports used by malicious hackers attacking the HoneyPot <br/>
+<img src="[https://i.imgur.com/70Cm0VK.png" height="80%" width="80%" alt="Vulnerability Scan searching](https://i.imgur.com/PcB5Zfm.jpg)"/>
 <br />
 <br />
 Issues Detected from Scan <br/>
